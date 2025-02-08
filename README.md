@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - **Solution URL:** [https://github.com/fawaziwalewa/character-counter](https://github.com/fawaziwalewa/character-counter)
-- **Live Site URL:** [Vercel](https://character-counter-c7hripbyx-fawaziwalewas-projects.vercel.app)
+- **Live Site URL:** [https://character-counter-dun.vercel.app/](https://character-counter-dun.vercel.app/)
 
 ## My Process
 
