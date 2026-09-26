@@ -111,7 +111,7 @@ In the future, I want to:
 - **Website:** [iwaola.me](https://iwaola.me)
 - **Frontend Mentor:** [@fawaziwalewa](https://www.frontendmentor.io/profile/fawaziwalewa)
 - **GitHub:** [fawaziwalewa](https://github.com/fawaziwalewa)
-- **Twitter:** [@IwalewaFawaz](https://twitter.com/IwalewaFawaz)
+- **Twitter:** [@iwalewa_fawaz](https://x.com/iwalewa_fawaz)
 
 ## Acknowledgments
 
